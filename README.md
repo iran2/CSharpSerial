@@ -9,4 +9,6 @@ It is 100% tested and ready to rock and roll! Howevere, there is still lots of r
 
 all you need is to run the .sln file in the zipfile and select your comport name and baudrate. Or simply use the .exe file in the Debug Folder.
 
+You need a loopback adapter or you can make one. You will send for instance '@' and you will receive the same character!
+
 You are very welcome to go ahead and add changes!

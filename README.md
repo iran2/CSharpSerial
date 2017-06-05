@@ -12,3 +12,5 @@ all you need is to run the .sln file in the zipfile and select your comport name
 You need a loopback adapter or you can make one. You will send for instance '@' and you will receive the same character!
 
 You are very welcome to go ahead and add changes!
+
+***Please feel free to check the SerialV.2 for fixing glitches. 
